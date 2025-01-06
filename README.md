@@ -1,1 +1,1 @@
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+![Steam Logo](https://community.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016)
